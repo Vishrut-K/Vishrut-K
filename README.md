@@ -29,12 +29,13 @@ Inspired by the simplicity of Apple Notes, the productivity of Linear, and the c
 
 #### Built with
 
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Prisma
-- PostgreSQL
-- Better Auth
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
 
 ---
 
@@ -57,11 +58,11 @@ Inspired by the simplicity of Apple Notes, the productivity of Linear, and the c
 
 ---
 
-## <img src="https://img.icons8.com/fluency/48/activity-history.png" width="28" style="vertical-align: middle; margin-right: 8px;" alt="Activity"/> GitHub Activity
+## <img src="https://img.icons8.com/fluency/48/line-chart.png" width="28" style="vertical-align: middle; margin-right: 8px;" alt="Activity"/> GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishrut-K&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=Vishrut-K&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -78,15 +79,15 @@ Inspired by the simplicity of Apple Notes, the productivity of Linear, and the c
 ## <img src="https://img.icons8.com/fluency/48/link.png" width="28" style="vertical-align: middle; margin-right: 8px;" alt="Connect"/> Connect
 
 <div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-</a>
-
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Vishrut-K" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
