@@ -15,7 +15,6 @@
 
 I'm a third-year Computer Science student who enjoys building thoughtful software and learning how modern applications are engineered.
 
-Instead of collecting tutorials, I'm focused on building real-world projects, strengthening my backend fundamentals, and improving my problem-solving skills every day.
 
 ---
 
@@ -25,7 +24,6 @@ Instead of collecting tutorials, I'm focused on building real-world projects, st
 
 A premium habit tracker focused on consistency, journaling and thoughtful design.
 
-Inspired by the simplicity of Apple Notes, the productivity of Linear, and the consistency visualization of GitHub.
 
 #### Built with
 
@@ -41,10 +39,20 @@ Inspired by the simplicity of Apple Notes, the productivity of Linear, and the c
 
 ## <img src="https://img.icons8.com/fluency/48/layers.png" width="28" style="vertical-align: middle; margin-right: 8px;" alt="Tech Stack"/> Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,postgres,prisma,python,git,github,vscode,figma&perline=7" alt="Skills" />
-
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
 ---
