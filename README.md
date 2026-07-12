@@ -1,104 +1,89 @@
-# Hi 👋, I'm Vishrut Kathwal
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=1800&color=FFFFFF&center=true&vCenter=true&width=720&height=60&lines=Computer+Science+Student;Learning+Full+Stack+Development;Building+I-got-this;Backend+Engineering+%7C+AI+Applications)](https://git.io/typing-svg)
+# Hi, I'm Vishrut 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Learning+Full+Stack+Development;Building+I-got-this;Backend+Engineering+Enthusiast)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🚀 Featured Project
+## About
 
-### I-got-this
+I'm a third-year Computer Science student who enjoys building thoughtful software.
 
-A premium habit tracking application inspired by Apple Notes, GitHub and Linear.
+Rather than collecting tutorials, I'm focused on shipping real projects, improving my backend engineering skills, and understanding how modern software is designed and built.
 
-Built with modern web technologies while focusing on clean design, thoughtful UX and long-term consistency.
+Currently building **I-got-this**, a premium habit tracker inspired by thoughtful design and practical usability.
 
-**Tech**
+---
+
+## Featured Project
+
+### 🚀 I-got-this
+
+A production-focused habit tracking application built with modern web technologies.
+
+**Built with**
 
 - Next.js
 - TypeScript
+- Tailwind CSS
 - Prisma
 - PostgreSQL
 - Better Auth
-- Tailwind CSS
 
 ---
 
-## 👨‍💻 About Me
+## Tech Stack
 
-I'm a Computer Science student passionate about building software that is clean, useful and thoughtfully designed.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,postgres,prisma,python,git,github,vscode,figma&theme=dark"/>
+</p>
 
-Currently focusing on:
+---
 
-- Full Stack Development
+## Currently Learning
+
 - Backend Engineering
-- Data Structures & Algorithms
-- AI-powered Applications
-- Building real-world projects
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-
-### Frontend
-
-Next.js • React • Tailwind CSS
-
-### Backend
-
-Node.js • Express • Prisma
-
-### Database
-
-PostgreSQL • MySQL
-
-### Tools
-
-Git • GitHub • VS Code • Figma
-
----
-
-## 📚 Currently Learning
-
-- Backend Development
 - Python
-- AI Integration
-- System Design Fundamentals
-- LeetCode
+- Data Structures & Algorithms
+- Building production-ready web applications
 
 ---
 
-## 🎯 2026 Goals
+## GitHub Stats
 
-- Ship I-got-this v1
-- Solve 300+ LeetCode problems
-- Land a Software Engineering Internship
-- Contribute to Open Source
-- Build impactful products
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishrut-K&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
 
-## 📊 GitHub Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishrut-K&layout=compact&hide_border=true&theme=transparent"/>
 
-<!-- GitHub Stats -->
+</p>
 
 ---
 
-## 💻 LeetCode
+## Contribution Graph
 
-<!-- LeetCode Card -->
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishrut-K&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📫 Connect
+## Connect
 
-LinkedIn *(Coming Soon)*
+<p align="center">
 
-Portfolio *(Coming Soon)*
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-Email: your@email.com
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
